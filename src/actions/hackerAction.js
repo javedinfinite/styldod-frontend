@@ -2,8 +2,8 @@ import Actions from '../actionConstants/hackerActionConstants';
 import axios from 'axios';
 import { getToken } from '../components/auth/auth'
 
-const base_url = 'http://localhost:4000/styldod/'
-// const base_url = 'https://codemymobile.herokuapp.com'
+// const base_url = 'http://localhost:4000/styldod/'
+const base_url = 'https://jdhacker.herokuapp.com'
 
 const token = 'Bearer '+getToken()
 
