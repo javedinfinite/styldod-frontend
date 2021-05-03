@@ -4,7 +4,8 @@ import PropTypes from 'prop-types';
 import Register from './register'
 import { Redirect } from "react-router-dom";
 
-const BaseUrl = 'http://localhost:4000/styldod/'
+// const BaseUrl = 'http://localhost:4000/styldod/'
+const BaseUrl = 'https://jdhacker.herokuapp.com/'
 
   function loginUser(credentials) {
  
