@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/javedinfinite/styldod-frontend/static/css/main.6eff26f7.chunk.css",
+    "main.js": "/javedinfinite/styldod-frontend/static/js/main.7205a70e.chunk.js",
+    "main.js.map": "/javedinfinite/styldod-frontend/static/js/main.7205a70e.chunk.js.map",
+    "runtime-main.js": "/javedinfinite/styldod-frontend/static/js/runtime-main.34b70893.js",
+    "runtime-main.js.map": "/javedinfinite/styldod-frontend/static/js/runtime-main.34b70893.js.map",
+    "static/css/2.b987d489.chunk.css": "/javedinfinite/styldod-frontend/static/css/2.b987d489.chunk.css",
+    "static/js/2.687018eb.chunk.js": "/javedinfinite/styldod-frontend/static/js/2.687018eb.chunk.js",
+    "static/js/2.687018eb.chunk.js.map": "/javedinfinite/styldod-frontend/static/js/2.687018eb.chunk.js.map",
+    "static/js/3.b590cbfc.chunk.js": "/javedinfinite/styldod-frontend/static/js/3.b590cbfc.chunk.js",
+    "static/js/3.b590cbfc.chunk.js.map": "/javedinfinite/styldod-frontend/static/js/3.b590cbfc.chunk.js.map",
+    "index.html": "/javedinfinite/styldod-frontend/index.html",
+    "static/css/2.b987d489.chunk.css.map": "/javedinfinite/styldod-frontend/static/css/2.b987d489.chunk.css.map",
+    "static/css/main.6eff26f7.chunk.css.map": "/javedinfinite/styldod-frontend/static/css/main.6eff26f7.chunk.css.map",
+    "static/js/2.687018eb.chunk.js.LICENSE.txt": "/javedinfinite/styldod-frontend/static/js/2.687018eb.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/javedinfinite/styldod-frontend/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34b70893.js",
+    "static/css/2.b987d489.chunk.css",
+    "static/js/2.687018eb.chunk.js",
+    "static/css/main.6eff26f7.chunk.css",
+    "static/js/main.7205a70e.chunk.js"
+  ]
+}
