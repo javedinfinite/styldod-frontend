@@ -5,7 +5,7 @@ import Register from './register'
 import { Redirect } from "react-router-dom";
 
 // const BaseUrl = 'http://localhost:4000/styldod/'
-const BaseUrl = 'https://jdhacker.herokuapp.com/'
+const BaseUrl = 'https://jdhacker.herokuapp.com/styldod/'
 
   function loginUser(credentials) {
  
